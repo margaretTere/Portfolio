@@ -6,6 +6,8 @@ import ResumePage from './pages/ResumePage';
 import ProjectsPage from './pages/ProjectsPage';
 import ContactPage from './pages/ContactPage';
 import Container from './components/Container'; // Optional for layout consistency
+import CoverLetter from './pages/CoverLetter';
+import GradesPage from './pages/StudentGradesPage'
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
           <Route path="/resume" element={<ResumePage />} /> 
           <Route path="/projects" element={<ProjectsPage />} /> 
           <Route path="/contact" element={<ContactPage />} /> 
+          <Route path="/coverLetter" element={<CoverLetter/>} />
+          <Route path="/gradesPage" element={<GradesPage/>} />
         </Routes>
       </Container>
     </Router>
