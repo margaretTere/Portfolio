@@ -10,6 +10,8 @@ const coverLetter = () => (
       <p>Toronto, ON</p>
      
       <p><a href="mailto:may.terechenko@gmail.com">may.terechenko@gmail.com</a></p>
+
+      <p><a href='https://www.linkedin.com/in/margaret-terechenko-a75154163/'>Linkedin</a></p>
      
     </Section>
 

@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import profileImage from '../assets/profileImage.jpg'; // Import your image
+import profileImage from '../assets/profileImage.jpg'; 
 
 const HomePage = () => (
   <Container>

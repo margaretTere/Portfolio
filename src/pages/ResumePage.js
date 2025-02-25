@@ -59,7 +59,7 @@ const ResumePage = () => (
           <li>I've learned REACT, node.js, Swift, MongoDB, HTML, CSS, Shell scripting, C#, Javascript, Java, Python, PHP, MySQL, Oracle, MS SQL Server, and Linux.</li>
           <li>Have collaborated with other students on projects, both as a member and a leader.</li>
           <li>Made several websites both for the courses and for my own projects.</li>
-          <li>Discovered my favorite programming languages are REACT, Python, node.js, Swift, and HTML/CSS.</li>
+          <li>Discovered my favorite programming languages are JavaScript, Python, Swift, and HTML/CSS and technologies REACT, Node.js, Express, and MongoDB = MERN.</li>
         </ul>
       </Experience>
 
@@ -97,7 +97,100 @@ const ResumePage = () => (
         </ul>
       </Experience>
 
-      {/* Add other jobs in the same format here */}
+      <Experience>
+  <h3>Brands Gone Wild - Cashier and Floor</h3>
+  <p>MAY 2020 - SEPTEMBER 2020</p>
+  <ul>
+    <li>Managed physical inventory and store records.</li>
+    <li>Maintained an organized inventory with sizing and categorization.</li>
+    <li>Provided technical training and created signs using Microsoft Office.</li>
+    <li>Worked as a cashier, ensuring accurate and efficient service.</li>
+    <li>Handled customer service online, by phone, and in person.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Pastucci’s / Partnered with Cheesecake - Food Handling</h3>
+  <p>JANUARY 2020 - JUNE 2020</p>
+  <ul>
+    <li>Ensured the restaurant was presentable and made customers feel welcome.</li>
+    <li>Prepared food while ensuring compliance with health codes.</li>
+    <li>Provided customer service and resolved conflicts between staff and customers.</li>
+    <li>Managed order processing through apps like UberEats, DoorDash, and Foodora.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Zellers / Hudson Bay - Cashier and Floor</h3>
+  <p>MARCH 2019 - JANUARY 2020 (Closed)</p>
+  <ul>
+    <li>Trained new hires, provided orientation with company standards and safety expectations.</li>
+    <li>Explained responsibilities and conducted closing announcements with co-workers.</li>
+    <li>Managed cash register operations, including opening, closing, and security procedures.</li>
+    <li>Provided customer service, assisted with stock inquiries and discounts.</li>
+    <li>Resolved customer complaints and supported co-workers in delivering exemplary service.</li>
+    <li>Facilitated returns and maintained accurate inventory.</li>
+    <li>Restocked the floor, considering brand placement and product visibility.</li>
+    <li>Gained experience in working within a closing store.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Burger Priest - Cashier / Food Handling</h3>
+  <p>NOVEMBER 2018 - APRIL 2019</p>
+  <ul>
+    <li>Handled money transactions accurately, ensuring the validity of cash provided.</li>
+    <li>Processed orders via phone, in-person, and through delivery apps (UberEats, Ritual, DoorDash, Skip the Dishes, Foodora, etc.).</li>
+    <li>Provided customer service, handling complaints and resolving conflicts.</li>
+    <li>Maintained a clean and welcoming restaurant environment.</li>
+    <li>Prepared food in compliance with health and safety regulations.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Red Lobster - Host / Busser</h3>
+  <p>DECEMBER 2018 - MARCH 2019</p>
+  <ul>
+    <li>Managed phone calls, answered customer inquiries, and took reservations.</li>
+    <li>Updated restaurant seating arrangements using a tablet to improve customer flow.</li>
+    <li>Greeted guests and seated them according to their preferences for the best dining experience.</li>
+    <li>Maintained a clean and inviting dining space.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Sporting Life - Merchandiser</h3>
+  <p>NOVEMBER 2018 - JANUARY 2019</p>
+  <ul>
+    <li>Organized and restocked products on the sales floor for optimal accessibility.</li>
+    <li>Ensured product displays were visually appealing to customers.</li>
+    <li>Provided detailed product knowledge to customers and sales associates.</li>
+    <li>Used a warehouse database to track stock levels in-store and at other locations.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Lush - Manufacturing (Seasonal)</h3>
+  <p>SEPTEMBER 2018 - DECEMBER 2018</p>
+  <ul>
+    <li>Worked with a team to produce and package high-demand cosmetic products.</li>
+    <li>Assisted in shaping and designing bath products in the Bubbles department.</li>
+    <li>Maintained a clean and safe workspace to meet production standards.</li>
+  </ul>
+</Experience>
+
+<Experience>
+  <h3>Royal Canadian Air Cadets, Toronto - Sergeant</h3>
+  <p>JANUARY 2013 - JUNE 2018</p>
+  <ul>
+    <li>Led fundraising initiatives for poppy sales and lottery tickets, recognized as a top seller.</li>
+    <li>Managed a flight (group) of cadets, overseeing training and leadership development.</li>
+    <li>Developed lesson plans and conducted training sessions for recruits.</li>
+    <li>Completed various courses and training provided by the Canadian Military.</li>
+  </ul>
+</Experience>
+
+
     </Section>
 
     <Section>

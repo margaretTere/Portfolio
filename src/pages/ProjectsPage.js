@@ -10,21 +10,44 @@ const ProjectsPage = () => {
       doing most of the work and guiding the team. The project used React for the frontend, Node.js and Express for the backend, and MongoDB as the database.`,
       subProjects: [
         {
-          title: 'Mobile App Assignment',
+          title: 'Capstone Frontend',
           link: 'https://github.com/TE109/mobileAppGroupAssinment',
         },
         {
           title: 'Capstone Backend',
           link: 'https://github.com/TE109/Capstone-Backend',
         },
+        {
+          title: 'IRES Project Summary',
+          link: 'https://docs.google.com/document/d/1HnDT_7gpjEadmbCt5zxBQuxe1uiMSLh9CHn_P6gUJNA/edit?tab=t.0',
+        },
+        {
+          title: 'IRES ​​Project Vision',
+          link: 'https://docs.google.com/document/d/1myUjzsa8qTPzRpWqGOIpfQum3IAH10qyj3hJVlWxx5U/edit?tab=t.0',
+        },
+        {
+          title: 'IRES Project Plan',
+          link: 'https://docs.google.com/document/d/1mBTKsWJo_jF03JB1DN7DDNPwu2WhsLV-jgxve4DQoag/edit?tab=t.0',
+        },
+        {
+          title: 'IRES Requirements Analysis and Design',
+          link: 'https://docs.google.com/document/d/1j-UIlYWhRFfYoDKX3aHfIWYXM29QKsrbYWXFyBAZrRI/edit?tab=t.0',
+        },
+        {
+          title: 'IRES Mockup',
+          link: 'https://www.figma.com/design/wfgChMTvw90RngjHYlP2ga/IRES?node-id=0-1&p=f&t=lAhh9AiRy7lqVhYP-0',
+        },
+        {
+          title: 'IRES Project Status Report I',
+          link: 'https://docs.google.com/document/d/1mBIs2cm90A1XuAARTc5kvRanfNdlpkh2z_hfhADb5n8/edit?tab=t.0',
+        },
       ],
     },
     {
-      title: 'Portfolio',
-      description: `A personal portfolio website built using React for the frontend, styled-components for styling, 
-      and react-router-dom for navigation. This portfolio showcases my projects, skills, and experience, providing 
-      an interactive and user-friendly interface.`,
-      link: 'https://github.com/margaretTere/portfolio',
+      title: 'Lab1 - Prime Number Game (SwiftUI)',
+      description: `An interactive iOS application developed using SwiftUI. The app generates random numbers, and users must 
+      determine if they are prime within a 5-second timer. It includes real-time feedback, a scoring system, and a pop-up summary after every 10 attempts.`,
+      link: 'https://github.com/margaretTere/Lab1_Margaret_Terechtchenko',
     },
     {
       title: 'SketchHead',
@@ -33,12 +56,19 @@ const ProjectsPage = () => {
       link: 'https://github.com/margaretTere/SketchHead',
     },
     {
+      title: 'Lab Test 1 - Real-time Chat Application',
+      description: `A real-time chat application allowing users to join predefined rooms and send messages instantly using 
+      Socket.io. Features include user authentication, private messaging, MongoDB-based message storage, and a typing indicator.`,
+      link: 'https://github.com/margaretTere/101297977_lab_test1_chat_app',
+    },
+    
+    {
       title: 'COMP3123 Assignment 2',
       description: `A backend API project designed to manage a list of tasks. This project allows users to perform CRUD operations 
       (Create, Read, Update, Delete) on tasks stored in a MongoDB database. Developed using Node.js and Express, the API includes 
       features like data validation with middleware and API testing with Postman.`,
       link: 'https://github.com/margaretTere/101297977_COMP3123_Assignment2',
-    }
+    },
   ];
 
   return (
