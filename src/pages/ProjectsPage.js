@@ -5,9 +5,11 @@ const ProjectsPage = () => {
   const projects = [
     {
       title: 'IRes Project',
-      description: `An electronic receptionist aimed at improving visitor interactions and reducing inefficiencies. 
-      This was a group project based on my idea. I set up the project, led the team, and contributed significantly by 
-      doing most of the work and guiding the team. The project used React for the frontend, Node.js and Express for the backend, and MongoDB as the database.`,
+      description: `The IRes Project is a secure and intelligent electronic receptionist system designed to enhance visitor management, streamline deliveries, 
+      and improve security through automation. Utilizing multi-factor authentication (MFA), visitors must verify their identity via phone number and one-time passcodes before gaining access, 
+      ensuring a secure check-in process. Delivery personnel receive pre-assigned access codes, eliminating delays and manual check-ins. The system automates notifications, instantly alerting hosts when visitors or packages arrive, 
+      while maintaining detailed visitor and delivery logs for security tracking. Built using React for the frontend, Node.js and Express for the backend, and MongoDB for the database, IRes provides a modern, scalable, and efficient solution. As the project leader,
+       I spearheaded the design, development, and implementation, guiding the team to successfully bring this system to life.`,
       subProjects: [
         {
           title: 'Capstone Frontend',
@@ -64,14 +66,18 @@ const ProjectsPage = () => {
     },
     
     {
-      title: 'COMP3123 Assignment 2',
-      description: `A backend API project designed to manage a list of tasks. This project allows users to perform CRUD operations 
-      (Create, Read, Update, Delete) on tasks stored in a MongoDB database. Developed using Node.js and Express, the API includes 
-      features like data validation with middleware and API testing with Postman.`,
+      title: 'Managing employees',
+      description: `This is a full-stack, Dockerized, and containerized application built using the MERN stack, 
+      where the frontend, backend, and database run in separate containers for scalability and efficiency. 
+      The project features authentication, a fully functional REST API, and CRUD operations for employee management.
+       Administrators can securely create, read, update, and delete employee records stored in a MongoDB database, 
+       ensuring seamless data handling. Developed with Node.js and Express, 
+       the API includes data validation middleware for reliability and API testing with Postman to ensure smooth functionality. 
+`,
       link: 'https://github.com/margaretTere/101297977_COMP3123_Assignment2',
     },
   ];
-
+  
   return (
     <Container>
       <h1>My Projects</h1>
