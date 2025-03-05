@@ -43,6 +43,10 @@ const ProjectsPage = () => {
           title: 'IRES Project Status Report I',
           pdf: '/pdfs/T2_IRES_ProjectStatusReport1 (2).pdf',
         },
+        {
+          title: 'IRES Project Status Report II',
+          pdf: '/pdfs/W2025_COMP3078_Project_Status_Report_2_Team2_IRES (1).pdf',
+        },
       ],
     },
     
