@@ -13,7 +13,7 @@ const ResumePage = () => (
     <Section>
       <h2>Professional Summary</h2>
       <p>
-          Currently pursuing a Computer Programming and Analysis diploma at George Brown College, specializing in software development, web development, and database management. 
+          Graduate of the Computer Programming and Analysis diploma program at George Brown College, with a focus on software development, web development, and database management.   
           The program provides comprehensive training in designing, coding, and deploying applications across various platforms. 
           With hands-on experience in advanced programming concepts, I thrive in collaborative environments and learn new technologies. I am a hardworking person, and love to challenge myself with projects, and learn new things. 
 
@@ -82,23 +82,6 @@ const ResumePage = () => (
         </ul>
       </Experience>
 
-      <Experience>
-        <h3>City Sightseeing Toronto - Sales ambassador</h3>
-        <p>JUNE 2022 - AUGUST 2022</p>
-        <ul>
-          <li>Sell tours/tickets for Toronto, Niagara, CN Tower, Casa Loma, Little Canada, ROM, and Hockey Hall Of Fame.</li>
-          <li>Customer service experience - In selling tickets, greeting customers and making them feel welcome, advertising, giving directions, and answering questions.</li>
-          <li>Cash handling - accepting payments, handling payment terminal transactions.</li>
-          <li>Selling pitch to customers to purchase a ticket.</li>
-          <li>Working with a team or individually with little to no supervision.</li>
-          <li>Helping/Showing customers/Advising customers where to go.</li>
-          <li>Learning the history of Toronto to better serve customers.</li>
-          <li>Dealing with difficult situations with customers and handling difficult customers.</li>
-        </ul>
-      </Experience>
-
-     
-
 <Experience>
   <h3>Royal Canadian Air Cadets, Toronto - Sergeant</h3>
   <p>JANUARY 2013 - JUNE 2018</p>
@@ -117,7 +100,7 @@ const ResumePage = () => (
       <h2>Education</h2>
       <Education>
         <p><b>George Brown College</b> - Computer Programming and Analytics</p>
-        <p>SEPTEMBER 2020 - PRESENT</p>
+        <p>SEPTEMBER 2020 - April 2025</p>
         <p><b>Etobicoke Collegiate Institute</b> - High School Degree</p>
         <p>SEPTEMBER 2016 - JUNE 2020</p>
         <p>Clubs: Orchestra (Jazz) and Softball Team (Scores and Records)</p>
