@@ -15,7 +15,7 @@ const ResumePage = () => (
       <p>
           Graduate of the Computer Programming and Analysis diploma program at George Brown College, with a focus on software development, web development, and database management.   
           The program provides comprehensive training in designing, coding, and deploying applications across various platforms. 
-          With hands-on experience in advanced programming concepts, I thrive in collaborative environments and learn new technologies. I am a hardworking person, and love to challenge myself with projects, and learn new things. 
+          With hands-on experience in advanced programming concepts, I thrive in collaborative environments and enjoy learning new technologies. I am a hardworking person, and love to challenge myself with projects, and learn new things. 
 
       </p>
 
