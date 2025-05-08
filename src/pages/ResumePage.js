@@ -15,7 +15,7 @@ const ResumePage = () => (
       <p>
           Graduate of the Computer Programming and Analysis diploma program at George Brown College, with a focus on software development, web development, and database management.   
           The program provides comprehensive training in designing, coding, and deploying applications across various platforms. 
-          With hands-on experience in advanced programming concepts, I thrive in collaborative environments and enjoy learning new technologies. I am a hardworking person, and love to challenge myself with projects, and learn new things. 
+          With hands-on experience in advanced programming concepts, I thrive in collaborative environments and enjoy learning new technologies. I am a hardworking person who loves to challenge myself with projects, and learn new things.  
 
       </p>
 
@@ -100,7 +100,7 @@ const ResumePage = () => (
       <h2>Education</h2>
       <Education>
         <p><b>George Brown College</b> - Computer Programming and Analytics</p>
-        <p>SEPTEMBER 2020 - April 2025</p>
+        <p>SEPTEMBER 2020 - April</p>
         <p><b>Etobicoke Collegiate Institute</b> - High School Degree</p>
         <p>SEPTEMBER 2016 - JUNE 2020</p>
         <p>Clubs: Orchestra (Jazz) and Softball Team (Scores and Records)</p>
