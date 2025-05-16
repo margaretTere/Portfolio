@@ -77,7 +77,7 @@ const ResumePage = () => (
           <li>Running all PA days camp, and junior summer camps.</li>
           <li>Creating the curriculum for junior classes.</li>
           <li>Trained Senseis for the junior ninja class and prepared them for teaching.</li>
-          <li>Held the responsibility of opening and closing the center on some days, with possessing the key for access.</li>
+          <li>Held the responsibility of opening and closing the centre on some days, with possessing the key for access.</li>
         </ul>
       </Experience>
 
