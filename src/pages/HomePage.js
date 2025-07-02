@@ -12,10 +12,9 @@ const HomePage = () => (
         <p> As a developer, I believe imagination fuels innovation and drives progress. My career is shaped by a commitment to creativity, problem-solving, and lifelong learning. Inspired by the limitless potential of technology, I strive to build solutions that not only address challenges but also inspire others to imagine and innovate. My goal is to evolve as both a creator and a collaborator, contributing meaningfully to the dynamic landscape of technology.</p>
         <h1>About me</h1>
         <p>
-          Currently studying Computer Programming and Analysis at George Brown College (T197 Program). 
-          This program provides an understanding of web development, applied programming logic, business 
-          applications for technology, and math for computer technology. I am a hardworking individual 
-          who loves to challenge myself with projects, explore new technologies, and constantly learn new things.
+          I am a graduate of the Computer Programming and Analysis program at George Brown College. 
+          The program offers an understanding of web development, applied programming logic, business application for technology, and math for computer technology.
+           I am a hardworking person who loves to challenge myself with projects, and learn new things.  
         </p>
         <h2>Skills</h2>
         <SkillList>
